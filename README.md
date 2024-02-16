@@ -5,7 +5,12 @@
 - Created a GitHub account
 - Personalized the account with a profile photo
 - Completed the steps of creating a branch and commit changes to the main branch
-- Used MarkDown syntax to edit the ReadMe file
+- Learned MarkDown syntax to edit the ReadMe file
+
+## Project Title
+**Creating a Hello World file**
+*This is italicized text*
+~~Strikethrough text~~
 
 
 
